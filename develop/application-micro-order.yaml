@@ -23,7 +23,7 @@ logging.level.com.xiangxue.jack.dao=debug
 
 
 
-spring.rabbitmq.host=192.168.67.139
+spring.rabbitmq.host=192.168.137.100
 spring.rabbitmq.port=5672
 spring.rabbitmq.username=admin
 spring.rabbitmq.password=admin
